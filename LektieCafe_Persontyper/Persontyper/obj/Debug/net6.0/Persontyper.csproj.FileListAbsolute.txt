@@ -1,0 +1,15 @@
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\bin\Debug\net6.0\Persontyper.exe
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\bin\Debug\net6.0\Persontyper.deps.json
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\bin\Debug\net6.0\Persontyper.runtimeconfig.json
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\bin\Debug\net6.0\Persontyper.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\bin\Debug\net6.0\Persontyper.pdb
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\Persontyper.csproj.AssemblyReference.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\Persontyper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\Persontyper.AssemblyInfoInputs.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\Persontyper.AssemblyInfo.cs
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\Persontyper.csproj.CoreCompileInputs.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\Persontyper.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\refint\Persontyper.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\Persontyper.pdb
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\Persontyper.genruntimeconfig.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\ref\Persontyper.dll
