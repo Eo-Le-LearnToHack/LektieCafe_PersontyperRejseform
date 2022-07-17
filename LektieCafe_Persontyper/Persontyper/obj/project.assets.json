@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sim8hu\\Desktop\\Code\\Ovelse\\LektieCafe_Persontyper\\LektieCafe_Persontyper\\Persontyper\\NPersontyper.csproj",
-      "projectName": "NPersontyper",
-      "projectPath": "C:\\Users\\sim8hu\\Desktop\\Code\\Ovelse\\LektieCafe_Persontyper\\LektieCafe_Persontyper\\Persontyper\\NPersontyper.csproj",
+      "projectUniqueName": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\NPersontyperRejseform.csproj",
+      "projectName": "NPersontyperRejseform",
+      "projectPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\NPersontyperRejseform.csproj",
       "packagesPath": "C:\\Users\\sim8hu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sim8hu\\Desktop\\Code\\Ovelse\\LektieCafe_Persontyper\\LektieCafe_Persontyper\\Persontyper\\obj\\",
+      "outputPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sim8hu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

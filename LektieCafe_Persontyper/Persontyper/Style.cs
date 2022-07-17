@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NPersontyper
+namespace NPersontyperRejseform
 {
     internal class Style
     {
@@ -21,6 +21,8 @@ namespace NPersontyper
         public string UNDERLINE { get; set; }
         public string UNDERLINE_UNDO { get; set; }
         //SOME CODE NECCESSARY TO MAKE TEXT UNDERLINE OR UNDO THE UNDERLINE
+        public string BOLD { get; set; }
+        public string BOLD_UNDO { get; set; }
 
         public Style()
         {
@@ -34,7 +36,11 @@ namespace NPersontyper
             UNDERLINE = "\x1B[4m";
             UNDERLINE_UNDO = "\x1B[0m";
             //SOME CODE NECCESSARY TO MAKE TEXT UNDERLINE OR UNDO THE UNDERLINE
+
+            BOLD = "\x1b[1m";
+            BOLD_UNDO = "\x1b[0m";
+            //BOLD, UNBOLD: https://stackoverflow.com/questions/60313206/how-do-i-make-a-string-bold-in-a-console-window
         }
 
-     }//class Style
+    }//class Style
 }//namespace NPersontyper

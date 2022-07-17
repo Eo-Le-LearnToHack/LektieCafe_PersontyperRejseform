@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\NPersontyper.csproj": {}
+    "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\NPersontyperRejseform.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\NPersontyper.csproj": {
+    "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\NPersontyperRejseform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\NPersontyper.csproj",
-        "projectName": "NPersontyper",
-        "projectPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\NPersontyper.csproj",
+        "projectUniqueName": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\NPersontyperRejseform.csproj",
+        "projectName": "NPersontyperRejseform",
+        "projectPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\NPersontyperRejseform.csproj",
         "packagesPath": "C:\\Users\\sim8hu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\PersontyperRejseform\\LektieCafe_Persontyper\\Persontyper\\obj\\",
         "projectStyle": "PackageReference",

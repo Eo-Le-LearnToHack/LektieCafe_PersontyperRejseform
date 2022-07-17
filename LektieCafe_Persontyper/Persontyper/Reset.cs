@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NPersontyper
+namespace NPersontyperRejseform
 {
     internal class Reset
     {
@@ -14,6 +14,9 @@ namespace NPersontyper
             Console.Clear();
             Loop.StatementAllParameters("Reset");
             Counter.Reset();
+            Compare.InstantiateResizeCompare();
         }
+
+        
     }//class Reset
 }//namespace NPersontyper

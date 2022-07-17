@@ -1,0 +1,15 @@
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\bin\Debug\net6.0\NPersontyperRejseform.exe
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\bin\Debug\net6.0\NPersontyperRejseform.deps.json
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\bin\Debug\net6.0\NPersontyperRejseform.runtimeconfig.json
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\bin\Debug\net6.0\NPersontyperRejseform.dll
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\bin\Debug\net6.0\NPersontyperRejseform.pdb
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\NPersontyperRejseform.csproj.AssemblyReference.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\NPersontyperRejseform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\NPersontyperRejseform.AssemblyInfoInputs.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\NPersontyperRejseform.AssemblyInfo.cs
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\NPersontyperRejseform.csproj.CoreCompileInputs.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\NPersontyperRejseform.dll
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\refint\NPersontyperRejseform.dll
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\NPersontyperRejseform.pdb
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\NPersontyperRejseform.genruntimeconfig.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\PersontyperRejseform\LektieCafe_Persontyper\Persontyper\obj\Debug\net6.0\ref\NPersontyperRejseform.dll
